@@ -1,0 +1,6 @@
+{
+  "name": "Swap Unisex Salon",
+  "description": "Swap Unisex Salon in Jeedimetla, Hyderabad offers professional haircuts, customized styling and grooming services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
